@@ -33,7 +33,10 @@ JOIN items p ON oi.product_id = p.product_id;
 ## Technologies Used
 - SQL
 - Visual studio
-
+## Screenshots
+![Tables](E-commerce/TablesandData.png)
+![Bestsellingquery](E-commerce/BestSellingItems.png)
+![Revenuequery](E-commerce/TotalRevenue.png)
 ## Design Notes
 The database was designed to reflect an e-commerce system with tables and relations.
 
